@@ -1,0 +1,26 @@
+1. Describe the main difference between Queue and PriorityQueue.
+Queue - FIFO
+PriorityQueue - order of removal is determined by the priority assigned to each element
+
+2. Briefly provide THREE (3) real-life example in using PriorityQueue.
+- air traffic control
+- operating system scheduling
+- hospital triage
+
+3.
+(a) C++
+(b) C++
+    Fortran
+    Java
+    Python
+(c) Fortran
+    Java
+    Python
+(d) Fortran
+    Python
+(e) false
+(f) Fortran
+    Python
+
+4(a) to determine the priority
+ (b) Ali, Jason, Muhamad
